@@ -1,0 +1,16 @@
+---
+title: "tidyr"
+author: "Max"
+format: html
+---
+
+## Tidyr and ggplot2
+```{r}
+#| message: false
+here::i_am("gitr-101.Rproj")
+library(here)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+```
+
