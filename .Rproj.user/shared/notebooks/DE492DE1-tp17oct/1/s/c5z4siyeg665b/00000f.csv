@@ -1,0 +1,6 @@
+"0","here::i_am(""gitr-101"")"
+"2","Error: Could not find associated project in working directory or any parent directory.
+- Path in project: gitr-101
+- Current working directory: C:/Users/maxim/Documents/gitr-101
+Please open the project associated with this file and try again.
+"

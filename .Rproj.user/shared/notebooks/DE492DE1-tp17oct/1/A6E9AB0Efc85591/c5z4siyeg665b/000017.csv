@@ -1,0 +1,6 @@
+"0","#| message: false"
+"0","here::i_am(""gitr-101.Rproj"")"
+"0","library(here)"
+"0","library(ggplot2)"
+"0","library(dplyr)"
+"0","library(tidyr)"

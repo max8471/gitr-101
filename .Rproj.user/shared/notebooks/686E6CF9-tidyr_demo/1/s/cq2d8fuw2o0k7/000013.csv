@@ -1,0 +1,2 @@
+"0","eustock <- as.data.frame(EuStockMarkets)"
+"0","eustock<- eustock |> mutate(time=1:n())"

@@ -43,6 +43,5 @@ long_eustock <-
 ggplot(long_eustock, aes(x=time, y=Value))+
   geom_line()+
   facet_wrap(~`Stock index`,ncol=1)
-
 ```
 
